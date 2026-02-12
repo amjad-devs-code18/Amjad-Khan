@@ -23,19 +23,19 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 ### 🛒 e-Commerce App
 **Description:** Microservices-based online shopping app  
 **Preview:**  
-[![e-Commerce App](https://images.unsplash.com/photo-1590608897129-79f23e5e8aa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGVjb21tZXJjZSUyMGFwcHxlbnwwfHx8fDE2ODYyMDg5NjI&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/ecommerce)  
+[![e-Commerce App](https://images.unsplash.com/photo-1611078481872-3f3f7d89c71d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Professional student enquiry management system built with Spring Boot & Thymeleaf  
 **Preview:**  
-[![Enquiry Page](https://images.unsplash.com/photo-1581091215368-2d2163b0d56f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHN0dWRlbnQlMjBlbnF1aXJ5fGVufDB8fHx8MTY4NjIwOTAwOQ&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/enquiry-system)  
+[![Enquiry Page](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
 **Preview:**  
-[![MakeMyTrip Clone](https://images.unsplash.com/photo-1606851092824-6c003f53033c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDZ8fGZsaWdodCUyMGJvb2tpbmd8ZW58MHx8fHwxNjg2MjA5MDQ4&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/makemytrip-clone)  
+[![MakeMyTrip Clone](https://images.unsplash.com/photo-1610490251344-fd24c2e0802d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
