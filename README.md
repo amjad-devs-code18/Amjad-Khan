@@ -34,7 +34,8 @@ Passionate about writing **clean, maintainable, and production-ready code**.
 - AWS Deployment  
 
 ### 📸 Preview
-[![eCommerce](./assets/ecommerce.png)](https://github.com/amjadkhan44734/ecommerce)
+[![eCommerce](./assets/<img width="1200" height="804" alt="image" src="https://github.com/user-attachments/assets/ba5db69d-d464-44e3-af76-b4004a5697a9" />
+)](https://github.com/amjadkhan44734/ecommerce)
 
 🔗 **GitHub Repo:**  
 https://github.com/amjadkhan44734/ecommerce  
