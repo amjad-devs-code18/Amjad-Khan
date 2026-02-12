@@ -1,8 +1,7 @@
-# 👋 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250"> 
-Hi, I’m Amjad Khan  
-🚀 **Full Stack Developer | Java & ReactJS Enthusiast**  
+# 👋 Hi, I’m Amjad Khan
+**Full Stack Developer | Java & ReactJS Enthusiast**  
 
-I build **web apps, microservices**, and explore **cloud & DevOps tools**.  
+I build **web applications, microservices**, and explore **cloud technologies & DevOps tools**.  
 
 ---
 
@@ -19,24 +18,24 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 
 ---
 
-## 📌 Featured Projects (Animated Previews)
+## 📌 Featured Projects
 
 ### 🛒 e-Commerce App
-**Description:** Microservices-based online shopping app  
-**Live Preview:**  
-[![e-Commerce App](https://media.giphy.com/media/3o7TKP7HD0G3A9Fv0U/giphy.gif)](https://github.com/amjadkhan44734/ecommerce)  
+**Description:** Microservices-based online shopping application  
+**Preview:**  
+[![e-Commerce App](https://via.placeholder.com/400x200.png?text=e-Commerce+App)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
-**Description:** Manage student enquiries via Spring Boot & Thymeleaf  
-**Enquiry Page Preview:**  
-[![Enquiry Page](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)](https://github.com/amjadkhan44734/enquiry-system)  
+**Description:** Professional student enquiry management system built with Spring Boot & Thymeleaf  
+**Preview:**  
+[![Enquiry Page](https://via.placeholder.com/400x200.png?text=Enquiry+Page)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
-**Live Preview:**  
-[![MakeMyTrip Clone](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)](https://github.com/amjadkhan44734/makemytrip-clone)  
+**Preview:**  
+[![MakeMyTrip Clone](https://via.placeholder.com/400x200.png?text=MakeMyTrip+Clone)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -57,12 +56,7 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 
 ---
 
-## 🎮 Fun & Learning
+## 🎮 Learning & Interests
 - 🌱 Learning **AWS, Microservices, DevOps**  
-- ⚡ Loves **coding challenges & competitive programming**  
-- 🎮 Enjoys **gaming & tech blogs**  
-
----
-
-## 🎬 Coding GIF
-![Dynamic Coding GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+- ⚡ Enjoy **coding challenges & competitive programming**  
+- 🎮 Interested in **tech blogs & web development trends**
