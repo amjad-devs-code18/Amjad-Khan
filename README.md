@@ -18,24 +18,24 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Animated Previews)
 
 ### 🛒 e-Commerce App
 **Description:** Microservices-based online shopping app  
 **Live Preview:**  
-[![e-Commerce App](https://dummyimage.com/400x200/000/fff.png&text=e-Commerce+App)](https://github.com/amjadkhan44734/ecommerce)  
+[![e-Commerce App](https://media.giphy.com/media/3o7TKP7HD0G3A9Fv0U/giphy.gif)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Manage student enquiries via Spring Boot & Thymeleaf  
 **Live Preview:**  
-[![Student Enquiry System](https://dummyimage.com/400x200/007BFF/fff.png&text=Enquiry+System)](https://github.com/amjadkhan44734/enquiry-system)  
+[![Enquiry System](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
 **Live Preview:**  
-[![MakeMyTrip Clone](https://dummyimage.com/400x200/FF4500/fff.png&text=MakeMyTrip+Clone)](https://github.com/amjadkhan44734/makemytrip-clone)  
+[![MakeMyTrip Clone](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -47,9 +47,12 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 ![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjadkhan44734&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadkhan44734&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amjadkhan44734&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amjadkhan44734&theme=react-dark&hide_border=true)  
 
 ---
 
