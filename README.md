@@ -34,7 +34,7 @@ Passionate about writing **clean, maintainable, and production-ready code**.
 - AWS Deployment  
 
 ### 📸 Preview
-[![eCommerce](./assets/<img width="1200" height="804" alt="image" src="https://github.com/user-attachments/assets/ba5db69d-d464-44e3-af76-b4004a5697a9" />
+[![eCommerce](./assets/<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ba5db69d-d464-44e3-af76-b4004a5697a9" />
 )](https://github.com/amjadkhan44734/ecommerce)
 
 🔗 **GitHub Repo:**  
@@ -52,7 +52,8 @@ https://github.com/amjadkhan44734/ecommerce
 - Dashboard with statistics  
 
 ### 📸 Preview
-[![Enquiry System](./assets/enquiry.png)](https://github.com/amjadkhan44734/enquiry-system)
+[![Enquiry System](./assets/<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f15780b5-0949-429c-8750-87ba5c48f269" />
+)](https://github.com/amjadkhan44734/enquiry-system)
 
 🔗 **GitHub Repo:**  
 https://github.com/amjadkhan44734/enquiry-system  
@@ -70,7 +71,8 @@ https://github.com/amjadkhan44734/enquiry-system
 - MySQL  
 
 ### 📸 Preview
-[![MakeMyTrip Clone](./assets/makemytrip.png)](https://github.com/amjadkhan44734/makemytrip-clone)
+[![MakeMyTrip Clone](./assets/<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/9cd589e0-4643-4248-a898-8b28935f0c98" />
+)](https://github.com/amjadkhan44734/makemytrip-clone)
 
 🔗 **GitHub Repo:**  
 https://github.com/amjadkhan44734/makemytrip-clone  
