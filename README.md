@@ -1,4 +1,5 @@
-# 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi, I’m Amjad Khan
+# 👋 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250"> 
+Hi, I’m Amjad Khan  
 🚀 **Full Stack Developer | Java & ReactJS Enthusiast**  
 
 I build **web apps, microservices**, and explore **cloud & DevOps tools**.  
@@ -64,4 +65,4 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 ---
 
 ## 🎬 Coding GIF
-![Dynamic Coding GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+![Dynamic Coding GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
