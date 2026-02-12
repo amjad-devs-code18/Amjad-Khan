@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amjad Khan
+# 👋 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50"> Hi, I’m Amjad Khan
 **Full Stack Developer | Java & ReactJS Enthusiast**  
 
 I build **web applications, microservices**, and explore **cloud technologies & DevOps tools**.  
@@ -23,19 +23,25 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 ### 🛒 e-Commerce App
 **Description:** Microservices-based online shopping app  
 **Preview:**  
-[![e-Commerce App](https://user-images.githubusercontent.com/6204938702/your-ecommerce-screenshot.png)](https://github.com/amjadkhan44734/ecommerce)  
+<a href="https://github.com/amjadkhan44734/ecommerce">
+<img src="https://via.placeholder.com/400x200.png?text=e-Commerce+App" alt="e-Commerce App" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Professional student enquiry management system built with Spring Boot & Thymeleaf  
 **Preview:**  
-[![Enquiry Page](https://user-images.githubusercontent.com/6204938702/your-enquiry-screenshot.png)](https://github.com/amjadkhan44734/enquiry-system)  
+<a href="https://github.com/amjadkhan44734/enquiry-system">
+<img src="https://via.placeholder.com/400x200.png?text=Enquiry+Page" alt="Enquiry Page" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
 **Preview:**  
-[![MakeMyTrip Clone](https://user-images.githubusercontent.com/6204938702/your-makemytrip-screenshot.png)](https://github.com/amjadkhan44734/makemytrip-clone)  
+<a href="https://github.com/amjadkhan44734/makemytrip-clone">
+<img src="https://via.placeholder.com/400x200.png?text=MakeMyTrip+Clone" alt="MakeMyTrip Clone" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -49,10 +55,10 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 
 ## 📊 GitHub Stats & Activity
 
-![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjadkhan44734&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadkhan44734&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amjadkhan44734&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amjadkhan44734&theme=react-dark&hide_border=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=amjadkhan44734&show_icons=true&theme=radical" width="400"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadkhan44734&layout=compact&theme=radical" width="250"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadkhan44734&theme=radical" width="400"/>  
+<img src="https://activity-graph.herokuapp.com/graph?username=amjadkhan44734&theme=react-dark&hide_border=true" width="400"/>  
 
 ---
 
