@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amjad Khan
+# 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi, I’m Amjad Khan
 🚀 **Full Stack Developer | Java & ReactJS Enthusiast**  
 
 I build **web apps, microservices**, and explore **cloud & DevOps tools**.  
@@ -28,8 +28,8 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 
 ### 🎓 Student Enquiry System
 **Description:** Manage student enquiries via Spring Boot & Thymeleaf  
-**Live Preview:**  
-[![Enquiry System](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)](https://github.com/amjadkhan44734/enquiry-system)  
+**Enquiry Page Preview:**  
+[![Enquiry Page](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
@@ -64,4 +64,4 @@ I build **web apps, microservices**, and explore **cloud & DevOps tools**.
 ---
 
 ## 🎬 Coding GIF
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Dynamic Coding GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
