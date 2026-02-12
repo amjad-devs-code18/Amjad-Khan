@@ -23,25 +23,19 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 ### 🛒 e-Commerce App
 **Description:** Microservices-based online shopping app  
 **Preview:**  
-<a href="https://github.com/amjadkhan44734/ecommerce">
-<img src="https://via.placeholder.com/400x200.png?text=e-Commerce+App" alt="e-Commerce App" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>  
+[![e-Commerce App](https://images.unsplash.com/photo-1590608897129-79f23e5e8aa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGVjb21tZXJjZSUyMGFwcHxlbnwwfHx8fDE2ODYyMDg5NjI&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Professional student enquiry management system built with Spring Boot & Thymeleaf  
 **Preview:**  
-<a href="https://github.com/amjadkhan44734/enquiry-system">
-<img src="https://via.placeholder.com/400x200.png?text=Enquiry+Page" alt="Enquiry Page" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>  
+[![Enquiry Page](https://images.unsplash.com/photo-1581091215368-2d2163b0d56f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHN0dWRlbnQlMjBlbnF1aXJ5fGVufDB8fHx8MTY4NjIwOTAwOQ&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
 **Preview:**  
-<a href="https://github.com/amjadkhan44734/makemytrip-clone">
-<img src="https://via.placeholder.com/400x200.png?text=MakeMyTrip+Clone" alt="MakeMyTrip Clone" width="400" style="transition: transform 0.3s; border-radius:8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>  
+[![MakeMyTrip Clone](https://images.unsplash.com/photo-1606851092824-6c003f53033c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDZ8fGZsaWdodCUyMGJvb2tpbmd8ZW58MHx8fHwxNjg2MjA5MDQ4&ixlib=rb-4.0.3&q=80&w=400)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -55,10 +49,10 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 
 ## 📊 GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=amjadkhan44734&show_icons=true&theme=radical" width="400"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadkhan44734&layout=compact&theme=radical" width="250"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadkhan44734&theme=radical" width="400"/>  
-<img src="https://activity-graph.herokuapp.com/graph?username=amjadkhan44734&theme=react-dark&hide_border=true" width="400"/>  
+![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjadkhan44734&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadkhan44734&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amjadkhan44734&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amjadkhan44734&theme=react-dark&hide_border=true)  
 
 ---
 
@@ -70,4 +64,4 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 ---
 
 ## 🎬 Professional Coding GIF
-![Professional Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Boy working with laptop](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
