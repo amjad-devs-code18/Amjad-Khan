@@ -21,21 +21,21 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 ## 📌 Featured Projects
 
 ### 🛒 e-Commerce App
-**Description:** Microservices-based online shopping application  
+**Description:** Microservices-based online shopping app  
 **Preview:**  
-[![e-Commerce App](https://via.placeholder.com/400x200.png?text=e-Commerce+App)](https://github.com/amjadkhan44734/ecommerce)  
+[![e-Commerce App](https://user-images.githubusercontent.com/6204938702/your-ecommerce-screenshot.png)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Professional student enquiry management system built with Spring Boot & Thymeleaf  
 **Preview:**  
-[![Enquiry Page](https://via.placeholder.com/400x200.png?text=Enquiry+Page)](https://github.com/amjadkhan44734/enquiry-system)  
+[![Enquiry Page](https://user-images.githubusercontent.com/6204938702/your-enquiry-screenshot.png)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
 **Preview:**  
-[![MakeMyTrip Clone](https://via.placeholder.com/400x200.png?text=MakeMyTrip+Clone)](https://github.com/amjadkhan44734/makemytrip-clone)  
+[![MakeMyTrip Clone](https://user-images.githubusercontent.com/6204938702/your-makemytrip-screenshot.png)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -56,7 +56,12 @@ I build **web applications, microservices**, and explore **cloud technologies & 
 
 ---
 
-## 🎮 Learning & Interests
+## 🎮 Learning & Professional Interests
 - 🌱 Learning **AWS, Microservices, DevOps**  
-- ⚡ Enjoy **coding challenges & competitive programming**  
-- 🎮 Interested in **tech blogs & web development trends**
+- ⚡ Loves **coding challenges & professional projects**  
+- 🎯 Focused on **clean code, scalability, and best practices**  
+
+---
+
+## 🎬 Professional Coding GIF
+![Professional Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
