@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amjad Khan
 🚀 **Full Stack Developer | Java & ReactJS Enthusiast**  
 
-I love building **web apps, microservices**, and exploring **cloud technologies & DevOps**.  
+I build **web apps, microservices**, and explore **cloud & DevOps tools**.  
 
 ---
 
@@ -22,17 +22,20 @@ I love building **web apps, microservices**, and exploring **cloud technologies 
 
 ### 🛒 e-Commerce App
 **Description:** Microservices-based online shopping app  
-**Preview:** ![e-Commerce App](https://via.placeholder.com/300x150.png?text=e-Commerce+App)  
+**Live Preview:**  
+[![e-Commerce App](https://dummyimage.com/400x200/000/fff.png&text=e-Commerce+App)](https://github.com/amjadkhan44734/ecommerce)  
 [GitHub Repo](https://github.com/amjadkhan44734/ecommerce)  
 
 ### 🎓 Student Enquiry System
 **Description:** Manage student enquiries via Spring Boot & Thymeleaf  
-**Preview:** ![Student Enquiry System](https://via.placeholder.com/300x150.png?text=Enquiry+System)  
+**Live Preview:**  
+[![Student Enquiry System](https://dummyimage.com/400x200/007BFF/fff.png&text=Enquiry+System)](https://github.com/amjadkhan44734/enquiry-system)  
 [GitHub Repo](https://github.com/amjadkhan44734/enquiry-system)  
 
 ### ✈️ MakeMyTrip Clone
 **Description:** Flight & hotel booking application  
-**Preview:** ![MakeMyTrip Clone](https://via.placeholder.com/300x150.png?text=MakeMyTrip+Clone)  
+**Live Preview:**  
+[![MakeMyTrip Clone](https://dummyimage.com/400x200/FF4500/fff.png&text=MakeMyTrip+Clone)](https://github.com/amjadkhan44734/makemytrip-clone)  
 [GitHub Repo](https://github.com/amjadkhan44734/makemytrip-clone)  
 
 ---
@@ -51,7 +54,7 @@ I love building **web apps, microservices**, and exploring **cloud technologies 
 ---
 
 ## 🎮 Fun & Learning
-- 🌱 Currently learning **AWS, Microservices, DevOps**  
+- 🌱 Learning **AWS, Microservices, DevOps**  
 - ⚡ Loves **coding challenges & competitive programming**  
 - 🎮 Enjoys **gaming & tech blogs**  
 
